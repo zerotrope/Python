@@ -1,1 +1,2 @@
-# ML classes from Udemy Machine Learning by de Ponteves & Eremenko
+# Introduction to Machine Learning 
+by de Ponteves & Eremenko, Udemy
